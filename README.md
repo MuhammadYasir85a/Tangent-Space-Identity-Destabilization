@@ -71,6 +71,8 @@ This project was developed as part of CSC-361 Machine Learning at Namal Universi
 ---
 
 ## System Architecture
+<img width="993" height="992" alt="TSID_Architecture" src="[https://github.com/user-attachments/assets/fc6e082f-0cab-4ba1-ac46-d4f74e150923](https://github.com/MuhammadYasir85a/Tangent-Space-Identity-Destabilization/blob/main/TSID_Architecture.png)" />
+
 ```
 
 User Input (Image / Video)

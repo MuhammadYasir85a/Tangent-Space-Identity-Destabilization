@@ -17,7 +17,14 @@
 </div>
 
 ---
+<div align="center">
+  <h3>📄 Read the Research Paper</h3>
+  <a href="docs/TSID_Research_Paper.pdf">
+    <img src="https://img.shields.io/badge/Download-Research%20Paper%20(PDF)-EE4C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper" />
+  </a>
+</div>
 
+---
 ## Overview
 
 TSID is a novel two-stage adversarial attack algorithm that protects face images from AI-based facial recognition systems while remaining visually identical to humans. The system adds mathematically-designed imperceptible noise to a face such that any standard face recognition model (FaceNet, ArcFace, VGG-Face) sees a completely different identity, but the image looks unchanged to human viewers.

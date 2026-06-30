@@ -73,8 +73,6 @@ This project was developed as part of CSC-361 Machine Learning at Namal Universi
 ## System Architecture
 
 ```
-<img width="993" height="992" alt="TSID" src="https://github.com/user-attachments/assets/1abc34fa-69c5-4cc8-8cfe-b892acfaab7e" />
-
 User Input (Image / Video)
         |
         | Original face image

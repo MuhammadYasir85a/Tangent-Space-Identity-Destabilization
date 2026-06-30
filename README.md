@@ -288,7 +288,7 @@ This project successfully meets all academic requirements and exceeds published 
 
 ---
 
-## Author
+## Authors
 
 **Muhammad Yasir**
 
@@ -303,6 +303,22 @@ Aspiring AI and Computer Vision Engineer
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/MuhammadYasir85a">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+**Rehan Ali**
+
+Computer Science Undergraduate at Namal University Mianwali  
+
+<div>
+  <a href="www.linkedin.com/in/rehan-ali-8a3799343">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bscs23f15@namal.edu.pk">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/rehanali1092">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>

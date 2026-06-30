@@ -74,38 +74,6 @@ This project was developed as part of CSC-361 Machine Learning at Namal Universi
 <img width="993" height="992" alt="TSID_Architecture" 
 src="https://raw.githubusercontent.com/MuhammadYasir85a/Tangent-Space-Identity-Destabilization/main/TSID_Architecture.png" />
 
-```
-
-User Input (Image / Video)
-        |
-        | Original face image
-        v
-MTCNN Face Detection
-        |
-        | Bounding box (x1, y1, x2, y2)
-        v
-Multi-Scale Preprocessing (320x320 with Lanczos resampling)
-        |
-        | Normalized tensor [-1, 1]
-        v
-Ensemble Embedding Extraction
-        |
-        | 1024-dim L2-normalized vector
-        v
-TSID Attack Engine
-        |
-        | Stage 1: Identity Shift (40 iterations)
-        | Stage 1.5: Compute direction vector v
-        | Stage 2: Orthogonal Dispersion (20 iterations, K=10 EOT)
-        | Best-Snapshot Safety
-        v
-Feathered Paste-Back
-        |
-        | Lanczos resize + Gaussian-feathered blend
-        v
-Protected Output (Image / Video)
-```
-
 ---
 
 ## Project Structure

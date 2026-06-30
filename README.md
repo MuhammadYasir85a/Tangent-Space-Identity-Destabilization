@@ -346,5 +346,5 @@ Free for academic and personal use. Commercial use requires attribution to the o
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6D4&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06B6A8&height=100&section=footer" width="100%" />
 </div>

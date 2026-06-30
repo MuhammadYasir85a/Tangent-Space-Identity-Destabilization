@@ -19,7 +19,7 @@
 ---
 <div align="center">
   <h3>📄 Read the Research Paper</h3>
-  <a href="docs/TSID_Research_Paper.pdf">
+  <a href="https://github.com/MuhammadYasir85a/Tangent-Space-Identity-Destabilization/blob/main/docs/TSID_IEEE_Paper.pdf">
     <img src="https://img.shields.io/badge/Download-Research%20Paper%20(PDF)-EE4C2C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper" />
   </a>
 </div>

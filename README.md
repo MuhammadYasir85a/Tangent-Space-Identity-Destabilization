@@ -71,8 +71,6 @@ This project was developed as part of CSC-361 Machine Learning at Namal Universi
 ---
 
 ## System Architecture
-<img width="993" height="992" alt="TSID_Architecture" src="https://github.com/user-attachments/assets/c7240664-5ed7-408e-a0a9-8e198500ceb4" />
-
 ```
 
 User Input (Image / Video)

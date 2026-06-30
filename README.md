@@ -312,7 +312,7 @@ Aspiring AI and Computer Vision Engineer
 Computer Science Undergraduate at Namal University Mianwali  
 
 <div>
-  <a href="www.linkedin.com/in/rehan-ali-8a3799343">
+  <a href="http://www.linkedin.com/in/rehan-ali-8a3799343">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bscs23f15@namal.edu.pk">
